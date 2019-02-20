@@ -63,9 +63,4 @@ window.onload = function(){
 
         }
     }
-
-
-
-
-
 }
